@@ -2793,6 +2793,6 @@ h3, .blog-title {
 .post-content img {
 	/*box-shadow:2px 1px 1px gray;*/
 }
-.wpcf7-form [type="submit"] {
+.wpcf7-submit {
 	background-color:red !important;
 }
