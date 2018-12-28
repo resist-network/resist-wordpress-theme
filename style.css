@@ -1628,7 +1628,7 @@ div#drop_mainmenu_container ul.fm2_drop_mainmenu {
 
 #drop_mainmenu ul li:hover > a,
 #drop_mainmenu ul li.hover > a {
-    background-color: #2176ff;
+    background-color: darkred;
     border: 0 none transparent;
     letter-spacing: 0px;
 }
