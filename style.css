@@ -686,7 +686,7 @@ h2.heading109 {
 
 .button.green:hover,
 .button.green:active {
-    background-color: #449C47;
+    background-color: darkgray;
 }
 
 .button.yellow:hover,
@@ -737,7 +737,7 @@ h2.heading109 {
 }
 
 .button.green {
-    background-color: #4caf50;
+    background-color: gray;
     color: #ffffff;
 }
 
