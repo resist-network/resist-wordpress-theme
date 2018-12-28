@@ -2764,3 +2764,20 @@ a#fm2_drop_mainmenu_mobile_button span.caption:before {
         padding-right: 0px;
     }
 }
+
+/*Resist.Network*/
+
+.post .default-featured-img {
+	max-width:200px !important;
+  text-align:center !important;
+}
+.post-list .post-content {
+	text-align:center !important;
+}
+.post-header {
+	font-size:0.8em !important;
+}
+h3, .blog-title {
+	font-size:1.2em !important;
+	font-weight:bolder !important;
+}
