@@ -2781,3 +2781,6 @@ h3, .blog-title {
 	font-size:1.2em !important;
 	font-weight:bolder !important;
 }
+.cta-blue-section {
+		background-color: gray;
+}
