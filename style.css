@@ -2794,5 +2794,5 @@ h3, .blog-title {
 	/*box-shadow:2px 1px 1px gray;*/
 }
 .wpcf7-form [type="submit"] {
-	background-color:red;
+	background-color:red !important;
 }
