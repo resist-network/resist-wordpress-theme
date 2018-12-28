@@ -2788,7 +2788,7 @@ h3, .blog-title {
 	background-color:gray !important;
 }
 .post-content-single img {
-	/*box-shadow:none !important;*/
+	box-shadow:none !important;
 }
 .post-content img {
 	/*box-shadow:2px 1px 1px gray;*/
