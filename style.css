@@ -2796,3 +2796,8 @@ h3, .blog-title {
 .wpcf7-submit {
 	background-color:red !important;
 }
+.gridContainer {
+	width:100% !important;
+	padding-left: none !important;
+	padding-right:none !important;
+}
