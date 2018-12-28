@@ -2823,7 +2823,9 @@ iframe {
 ::-webkit-scrollbar-thumb {
 	background-color: red;
 }
-.blog-postsrow img {
+.blog-postsrow a {
 	text-align:center !important;
+}
+.blog-postsrow img {
 	max-width:128px !important;
 }
