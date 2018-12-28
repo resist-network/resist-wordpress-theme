@@ -2801,3 +2801,8 @@ h3, .blog-title {
 	padding-left: none !important;
 	padding-right:none !important;
 }
+.grecaptcha-badge {
+	width:0px;
+	height:0px;
+	display:none;
+}
