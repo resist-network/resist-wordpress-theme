@@ -2826,6 +2826,9 @@ iframe {
 .blog-postsrow a {
 	text-align:center !important;
 }
+.blog-postsrow .post-content {
+	text-align:center !important;
+}
 .blog-postsrow img {
 	max-width:128px !important;
 }
