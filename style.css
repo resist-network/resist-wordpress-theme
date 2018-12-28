@@ -2787,3 +2787,6 @@ h3, .blog-title {
 .team-colors-background {
 	background-color:gray !important;
 }
+.post-content-single img {
+	box-shadow:none !important;
+}
