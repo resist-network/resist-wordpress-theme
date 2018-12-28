@@ -2817,9 +2817,9 @@ iframe {
 
 ::-webkit-scrollbar {
 	width: 10px;
-	background-color: red;
+	background-color: darkred;
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: darkred;
+	background-color: red;
 }
