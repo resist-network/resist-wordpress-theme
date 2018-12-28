@@ -1168,7 +1168,7 @@ h2.footer-logo {
 }
 
 .footer {
-    background-color: red;
+    background-color: #222222;
     border-top: 5px solid #03A8F4;
     min-height: 87px;
 }
@@ -1628,7 +1628,7 @@ div#drop_mainmenu_container ul.fm2_drop_mainmenu {
 
 #drop_mainmenu ul li:hover > a,
 #drop_mainmenu ul li.hover > a {
-    background-color: red;
+    background-color: #2176ff;
     border: 0 none transparent;
     letter-spacing: 0px;
 }
@@ -1647,7 +1647,7 @@ div#drop_mainmenu_container ul.fm2_drop_mainmenu {
 #drop_mainmenu > li ul {
     top: auto;
     border-bottom-width: 5px;
-    border-bottom-color: red;
+    border-bottom-color: #2176FF;
     border-bottom-style: solid;
     padding: 0px;
     position: absolute;
@@ -2763,21 +2763,4 @@ a#fm2_drop_mainmenu_mobile_button span.caption:before {
         padding-left: 0px;
         padding-right: 0px;
     }
-}
-
-/*Resist.Network*/
-
-.post .default-featured-img {
-	max-width:200px !important;
-  text-align:center !important;
-}
-.post-list .post-content {
-	text-align:center !important;
-}
-.post-header {
-	font-size:0.8em !important;
-}
-h3, .blog-title {
-	font-size:1.2em !important;
-	font-weight:bolder !important;
 }
