@@ -583,7 +583,7 @@ a img.aligncenter {
 }
 
 span a.post-category:hover {
-    color: #2186C4;
+    color: red;
     text-decoration: underline;
 }
 
@@ -623,12 +623,12 @@ h2.heading109 {
 
 .prev-posts a {
     text-decoration: none;
-    color: #2186C4;
+    color: red;
 }
 
 .next-posts a {
     text-decoration: none;
-    color: #2186C4;
+    color: red;
 }
 
 .heading91 {
@@ -1217,7 +1217,7 @@ h2.footer-logo {
 
 .fa.font-icon-25 {
     font-size: 1.1em;
-    color: #2186C4;
+    color: red;
     display: inline-block;
 }
 
@@ -1233,7 +1233,7 @@ h2.footer-logo {
 
 .blog-title a:hover {
     text-decoration: underline;
-    color: #2186C4;
+    color: red;
 }
 
 .navigation {
@@ -1477,7 +1477,7 @@ hr {
 }
 
 .widget > ul > li a:active {
-    color: #2186C4;
+    color: red;
 }
 
 .widget > .textwidget {
@@ -2206,7 +2206,7 @@ span.comments-number {
 }
 
 .comments-form a {
-    color: #2186C4;
+    color: red;
     text-decoration: none;
 }
 
