@@ -2806,3 +2806,7 @@ h3, .blog-title {
 	height:0px;
 	display:none;
 }
+iframe {
+	width:100% !important;
+	height:500px !important;
+}
