@@ -2832,3 +2832,6 @@ iframe {
 .blog-postsrow img {
 	max-width:128px !important;
 }
+.widget widget_rss_links img {
+	padding:2px !important;
+}
