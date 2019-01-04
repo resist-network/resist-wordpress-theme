@@ -2838,6 +2838,6 @@ iframe {
 .gglcptch_recaptcha {
 	text-align:center;
 }
-.gglcptch_recaptcha iframe {
-	width:300px !important;
+.gglcptch_recaptcha * {
+	width:none !important;
 }
