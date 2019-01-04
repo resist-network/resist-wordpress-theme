@@ -2835,3 +2835,9 @@ iframe {
 .widget_rss_links img {
 	padding:2px !important;
 }
+.gglcptch_recaptcha {
+	text-align:center;
+}
+.gglcptch_recaptcha iframe {
+	width:none !important;
+}
