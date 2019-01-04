@@ -2831,6 +2831,7 @@ h3, .blog-title {
 .widget_rss_links img {
 	padding:2px !important;
 }
-.gglcptch_recaptcha {
+.gglcptch_recaptcha div {
 	text-align:center;
+	width:100%;
 }
