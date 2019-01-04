@@ -2839,5 +2839,5 @@ iframe {
 	text-align:center;
 }
 .gglcptch_recaptcha iframe {
-	width:none !important;
+	width:300px !important;
 }
